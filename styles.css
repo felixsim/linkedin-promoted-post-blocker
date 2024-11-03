@@ -1,0 +1,6 @@
+[data-promoted="true"],
+.feed-shared-promotion-update,
+.promoted-update,
+.feed-shared-update--promoted {
+  display: none !important;
+} 
