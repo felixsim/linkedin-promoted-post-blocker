@@ -11,9 +11,6 @@ A simple Chrome extension that removes promoted posts from your LinkedIn feed.
 4. Click "Load unpacked"
 5. Select the unzipped extension folder
 
-### From Chrome Web Store (Coming soon)
-[If you plan to publish it on the Chrome Web Store]
-
 ## Features
 - Automatically removes promoted posts from LinkedIn feed
 - Works with dynamically loaded content
